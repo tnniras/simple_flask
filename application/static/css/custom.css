@@ -1,0 +1,27 @@
+.answer-radio {
+ width: 100%;
+
+}
+
+.jumbotron{
+    justify-content: center;
+    text-align: center; 
+}
+
+.img-char{
+    text-align: center;
+}
+
+.card-main{
+    width: 100%;
+    height: 100%;
+
+}
+
+.form-check-input{
+    visibility: hidden;
+}
+
+.badge-info{
+    background-color:#343a40;
+}
